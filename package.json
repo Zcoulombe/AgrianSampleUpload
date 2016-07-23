@@ -1,0 +1,14 @@
+{
+  "name": "agrian-upload",
+  "version": "1.0.0",
+  "description": "Upload ground sample data to database for analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Coulombe <zachary.d.coulombe@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
